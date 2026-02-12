@@ -392,12 +392,7 @@ section.footer a:hover {
   transform: scale(1.01);
 }
 
-.video {
-    position: relative;
-    z-index: 10; /* Ensures the video is 'on top' of background layers */
-    width: 100%;
-    display: block;
-}
+
 @keyframes Scale-fade {
   from {
     opacity: 0;
